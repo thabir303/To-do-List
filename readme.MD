@@ -109,9 +109,3 @@ If you want to contribute to this project:
 2. Create a new branch.
 3. Implement your feature or fix.
 4. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
----

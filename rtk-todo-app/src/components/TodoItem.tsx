@@ -127,6 +127,9 @@ const TodoItem = ({ todo }: TodoItemProps) => {
             </button>
           </>
         )}
+        {errorMessage && (
+         <div className="text-red-500 text-sm mt-1">{errorMessage}</div>
+          )}
       </div>
     </div>
   );

@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Learn Redux Toolkit Yoo",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "text": "Master RTK Query",
+      "completed": false
+    },
+    {
+      "id": "4294",
+      "text": "abir",
+      "completed": false
+    },
+    {
+      "id": "4f37",
+      "text": "hi ( updated)",
+      "completed": false
+    },
+    {
+      "id": "2003",
+      "text": "hi",
+      "completed": false
+    },
+    {
+      "id": "c63a",
+      "text": "my first task(up)",
+      "completed": true
+    },
+    {
+      "id": "a1f5",
+      "text": "hi",
+      "completed": true
+    },
+    {
+      "id": "0cec",
+      "text": "bye",
+      "completed": true
+    },
+    {
+      "id": "6083",
+      "text": "hello",
+      "completed": true
+    }
+  ]
+}

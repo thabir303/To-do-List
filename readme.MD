@@ -2,7 +2,6 @@
 
 A modern Todo application built with React, TypeScript, Redux Toolkit, and RTK Query demonstrating efficient state management and API interaction patterns.
 
-![RTK Query Todo App](![](image.png))
 
 ## Features
 
